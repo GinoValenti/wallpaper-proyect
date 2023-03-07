@@ -1,0 +1,81 @@
+{
+    "wallpapers": [
+      {
+        "id": 1,
+        "title": "Technology",
+        "description": "A stunning view of the Northern Lights over a snowy landscape.",
+        "url": "https://1.bp.blogspot.com/-FDco02CRp_M/Wm7_y1G4MtI/AAAAAAAAN-U/zIZ8UH6RzKUe_hSxW3qWF7OuPOnv6wZ2ACLcBGAs/s1600/33.jpg",
+        "tags": ["technology", "pencil", "minimalist","brown"]
+      },
+      {
+        "id": 2,
+        "title": "Cityscape",
+        "description": "A panoramic view of a city skyline at dusk.",
+        "url": "https://4.bp.blogspot.com/-udI8g-T4oLU/Wm7_7gFgX5I/AAAAAAAAN-4/eDjcDOBeWdkxjBop_YzyJeuAIplOsm8ogCLcBGAs/s1600/81651.jpg",
+        "tags": ["blue", "sky", "mountains","minimalist"]
+      },
+      {
+        "id": 3,
+        "title": "Mountain Geometric",
+        "description": "A tranquil lake surrounded by mountains.",
+        "url": "https://1.bp.blogspot.com/--rMwWpO1vJA/Wm7_ywQ2x9I/AAAAAAAAN-Q/o7LaowZvlwo-ADwhiuz1V96OwoIQYKHZwCLcBGAs/s1600/4094001-wallpaper-minimalist.jpg",
+        "tags": ["nature", "mountains", "lake","3d","geometric"]
+      },
+      {
+        "id": 4,
+        "title": "Lost in the forest",
+        "description": "A colorful sunset over a desert landscape.",
+        "url": "https://3.bp.blogspot.com/-johAto_36nM/Wm7_z6LsHyI/AAAAAAAAN-c/NI_rGHNhpWM-VnnEzAWHYsSgVh0dwWzsACLcBGAs/s1600/4675134-wallpaper-minimalist.jpg",
+        "tags": ["nature", "forest", "lost","supervivence"]
+      },
+      {
+        "id": 5,
+        "title": "Lake",
+        "description": "A babbling brook flowing through a lush forest.",
+        "url": "https://1.bp.blogspot.com/-pea-82vMWP8/Wm7_yzjwaMI/AAAAAAAAN-Y/Xa3bx0C0Itcjq6Mbt26Nx0l2eDfZgT6wQCLcBGAs/s1600/164541026-minimalism-wallpapers.jpg",
+        "tags": ["nature", "lake", "mountains"]
+      },
+      {
+        "id": 6,
+        "title": "Programmer Glasses",
+        "description": "A stunning view of the Milky Way galaxy in the night sky.",
+        "url": "https://2.bp.blogspot.com/-rP2kIPiCn3Y/Wm7_1JLC32I/AAAAAAAAN-g/2i2BJuDjHGoFhWQ89UaMpm3ZSQcyry2UQCLcBGAs/s1600/d6d0bca64f31251abe01f18b7b85c71d.png",
+        "tags": ["technology", "minimalist"]
+      },
+      {
+        "id": 7,
+        "title": "The forest",
+        "description": "A beautiful sunset over a tropical beach.",
+        "url": "https://3.bp.blogspot.com/-gVZ6tZgJwXA/Wm7_3I8ffPI/AAAAAAAAN-s/QHSIpsrJpCkWkxVszcT2I5ZhDWFp_YP-gCLcBGAs/s1600/im-500239713.jpg",
+        "tags": ["nature", "forest"]
+      },
+      {
+        "id": 8,
+        "title": "Mountains geometric",
+        "description": "A cascading waterfall in a lush green forest.",
+        "url": "https://2.bp.blogspot.com/-s3RiNkWgmgM/Wm7_8bcoCLI/AAAAAAAAN-8/WgX--atQIywQ9LGvt2NGl7p00CLsmGNLACLcBGAs/s1600/minimalism_sky_clouds_sun_mountains_lake_landscape_95458_3840x2400.jpg",
+        "tags": ["nature", "mountains", "lake","3d","geometric"]
+      },
+      {
+        "id": 9,
+        "title": "Sun Geometric",
+        "description": "A majestic view of snow-capped mountains.",
+        "url": "https://3.bp.blogspot.com/-2bfcjpXmfIg/Wm7_5iS9OhI/AAAAAAAAN-0/eVNWrngy50wFG4nOGiP17OrgNZ2Uri_mgCLcBGAs/s1600/tumblr_static_summer_sunset_created_by_-_marilou.png",
+        "tags": ["nature", "mountains", "sun","3d","geometric"]
+      },
+      {
+        "id": 10,
+        "title": "Green",
+        "description": "A colorful array of autumn leaves in a forest.",
+        "url": "https://4.bp.blogspot.com/-GWdKKFbWlQI/Wm7_4dZnYZI/AAAAAAAAN-w/A_bmz0q5RBk69PsmQdaZxNSjmFC1_adlACLcBGAs/s1600/pluggegg-minimalist-wallpaper-light1.png",
+        "tags": ["nature", "autumn", "green"]
+      }
+    ]
+  }
+
+  
+  
+  
+  
+  
+  
