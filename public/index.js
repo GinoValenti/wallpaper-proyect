@@ -1,4 +1,4 @@
-const contenedor = document.getElementById("asd")
+ const contenedor = document.getElementById("asd")
 fetch('../data.json')
   .then(response => response.json())
   .then(data => {
@@ -19,6 +19,8 @@ fetch('../data.json')
   })
   .catch(error => console.error(error));
 
+  
+ 
 
 
   
